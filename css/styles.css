@@ -1,0 +1,70 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+  text-align: center;
+}
+
+
+.questions {
+  float:left;
+  width:30%;
+
+}
+
+
+.questions img {
+  height: 200px;
+  width: 350px;
+  margin: 5px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+
+
+
+#img-1 img {
+height: 350px;
+}
+
+#img-2 img {
+height: 400px;
+}
+
+#img-4 img {
+  height: 300px;
+  width: 550px;
+}
+
+/* #img-1 {
+
+} */
+
+
+.horrid {
+  font-size: 32px;
+  /* font-family:  */
+  background-color: #827040;
+  color: #8c9902;
+}
+
+.tron {
+  background-color: black;
+  color: #008cff;
+}
+
+button {
+  position: absolute;
+  top: 950px;
+  left: 250px;
+  height: 100px;
+  width: 300px;
+}
+
+
+/* input {
+  margin-top: 50px;
+
+} */
